@@ -1,9 +1,13 @@
-<H3>Name: JANARTHANAN V K</H3>
-<H3>Register no: 212222230051</H3>
-<H3>Date: </H3>
-<H3>Experiment No. 2 </H3>
+**ENTER YOUR NAME: JANARTHANAN V K**<br>
 
-## Implementation of Perceptron for Binary Classification
+**ENTER YOUR REGISTER NO.: 212222230051**<br>
+
+**EX.NO.2**<br>
+
+**DATE:** <br>
+<div align="center">
+<h1>Implementation of Perceptron for Binary Classification</h1>
+</div>
 
 # AIM:
 To implement a perceptron for classification using Python<BR>
